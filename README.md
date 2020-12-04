@@ -18,7 +18,7 @@ THEN they fall in sequential order
 WHEN I view the title element  
 THEN I find a concise, descriptive title  
 
-What I fixed:  
+EDITS:  
 added website title  
 switched out the div for header, nav, sections, articles and footer  
 no id on the search-engine-optimization div  
@@ -30,3 +30,9 @@ added alts
 merged more css for benefit-container including h3 and img  
 merged css for content div and also moved it above benefits to reflect html order  
 added comments to everything  
+  
+SCREENSHOT:  
+![horiseon-screenshot](https://user-images.githubusercontent.com/72325495/101125126-1823f480-35be-11eb-80bc-a5b433adf37c.png)
+  
+LINK TO DEPLOYED SITE:    
+https://codykimb.github.io/Horiseon/
