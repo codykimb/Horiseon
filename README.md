@@ -10,6 +10,9 @@ SCREENSHOT:
 ![horiseon-screenshot](https://user-images.githubusercontent.com/72325495/101125126-1823f480-35be-11eb-80bc-a5b433adf37c.png)
   
 LINK TO DEPLOYED SITE:    
+
+  
+GIT HUB REPOSITORY:  
 https://codykimb.github.io/Horiseon/
   
 USER STORY:  
@@ -42,4 +45,5 @@ added alts
 merged more css for benefit-container including h3 and img  
 merged css for content div and also moved it above benefits to reflect html order  
 added comments to everything  
+moved index.html into root folder and adjusted relative paths
   
