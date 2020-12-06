@@ -10,10 +10,10 @@ SCREENSHOT:
 ![horiseon-screenshot](https://user-images.githubusercontent.com/72325495/101125126-1823f480-35be-11eb-80bc-a5b433adf37c.png)
   
 LINK TO DEPLOYED SITE:    
-
+https://codykimb.github.io/Horiseon/
   
 GIT HUB REPOSITORY:  
-https://codykimb.github.io/Horiseon/
+https://github.com/codykimb/Horiseon/
   
 USER STORY:  
 AS A marketing agency   
